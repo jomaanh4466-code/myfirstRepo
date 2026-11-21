@@ -19,3 +19,5 @@ To learn how to:
 <p>This is a new change</p>
 Lab 8 - Basic Git Operations
 Learning Git Push and Pull.
+Lab 8 - Pull Operation
+This update was made on GitHub.
