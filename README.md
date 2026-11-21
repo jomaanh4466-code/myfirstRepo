@@ -17,3 +17,5 @@ To learn how to:
 • Edit and update a README file
 :::
 <p>This is a new change</p>
+Lab 8 - Basic Git Operations
+Learning Git Push and Pull.
